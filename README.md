@@ -1,19 +1,19 @@
 
 # README
 
-## Project Title: **Priority Queue and Heapsort Implementation**
+## **Priority Queue and Heapsort Implementation**
 
 ### **Overview:**
 This project implements two important algorithms: **Heapsort** and **Priority Queue** using a **binary heap**. The project consists of two main Python files:
-1. **heapsort_comparision.py** – Implements the Heapsort algorithm and compares its performance against other sorting algorithms.
-2. **priority_queue.py** – Implements a priority queue using a binary heap with key operations such as **add_to_heap**, **remove_highest_priority**, **modify_task_priority**, and **is_heap_empty**.
+1. **`heapsort_comparision.py`** – Implements the Heapsort algorithm and compares its performance against other sorting algorithms.
+2. **`priority_queue.py`** – Implements a priority queue using a binary heap with key operations such as **add_to_heap**, **remove_highest_priority**, **modify_task_priority**, and **is_heap_empty**.
 
 ### **Files:**
-1. **heapsort_comparision.py**
+1. **`heapsort_comparision.py`**
    - Implements the **Heapsort** algorithm.
    - Compares the performance of Heapsort against other sorting algorithms like **QuickSort** and **MergeSort** on various distributions (sorted, reverse-sorted, and random data).
 
-2. **priority_queue.py**
+2. **`priority_queue.py`**
    - Implements a **max-heap** based **priority queue** with operations:
      - **add_to_heap**: Insert a new task.
      - **remove_highest_priority**: Extract the highest-priority task.
