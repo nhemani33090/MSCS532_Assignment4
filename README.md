@@ -27,18 +27,20 @@ This project implements two important algorithms: **Heapsort** and **Priority Qu
 1. **Install Python:**
    Make sure Python 3.x is installed on your machine. If not, download and install it from [python.org](https://www.python.org/).
 
-2. **Run Heapsort Comparison Script:**
-   - Open a terminal or command prompt.
-   - Navigate to the folder where **heapsort_comparision.py** is located.
+2. Clone this repository:
+    ```bash
+   git clone https://github.com/nhemani33090/MSCS532_Assignment4.git
+   cd MSCS532_Assignment4
+   ```
+
+3. **Run Heapsort Comparison Script:**
    - Run the script using Python:
      ```bash
      python3 heapsort_comparision.py
      ```
    - This will run the Heapsort implementation and print the comparison results between **Heapsort**, **QuickSort**, and **MergeSort**.
 
-3. **Run Priority Queue Script:**
-   - Open a terminal or command prompt.
-   - Navigate to the folder where **priority_queue.py** is located.
+4. **Run Priority Queue Script:**
    - Run the script using Python:
      ```bash
      python3 priority_queue.py
